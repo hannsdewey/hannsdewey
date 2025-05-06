@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently a 4th Year **Computer Science Student**
+ 🔭 I’m currently a 3rd Year **Computer Science Student**
  
  🌱 I’m currently learning **PHP/LARAVEL**
 
